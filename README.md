@@ -1,4 +1,4 @@
-# Adding a link after thumbnail - Demo
+# Adding wikipedia service to fullview - Demo
 
 
 ##Usage
@@ -18,7 +18,7 @@ For example, if you are developing a package for the Auto1 view
   "description": "",
   "author": "",
   "devDependencies": {
-    "primo-explore-thumbnail-links-demo": "0.0.1"
+    "primo-explore-wikipedia-demo": "0.0.1"
   }
 }
 ```
